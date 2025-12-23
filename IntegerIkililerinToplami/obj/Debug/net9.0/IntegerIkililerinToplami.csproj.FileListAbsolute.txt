@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\CSharpPprojeler\IntegerIkililerinToplami\bin\Debug\net9.0\IntegerIkililerinToplami.exe
+C:\Users\Asus\Desktop\CSharpPprojeler\IntegerIkililerinToplami\bin\Debug\net9.0\IntegerIkililerinToplami.deps.json
+C:\Users\Asus\Desktop\CSharpPprojeler\IntegerIkililerinToplami\bin\Debug\net9.0\IntegerIkililerinToplami.runtimeconfig.json
+C:\Users\Asus\Desktop\CSharpPprojeler\IntegerIkililerinToplami\bin\Debug\net9.0\IntegerIkililerinToplami.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\IntegerIkililerinToplami\bin\Debug\net9.0\IntegerIkililerinToplami.pdb
+C:\Users\Asus\Desktop\CSharpPprojeler\IntegerIkililerinToplami\obj\Debug\net9.0\IntegerIkililerinToplami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CSharpPprojeler\IntegerIkililerinToplami\obj\Debug\net9.0\IntegerIkililerinToplami.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\IntegerIkililerinToplami\obj\Debug\net9.0\IntegerIkililerinToplami.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CSharpPprojeler\IntegerIkililerinToplami\obj\Debug\net9.0\IntegerIkililerinToplami.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\IntegerIkililerinToplami\obj\Debug\net9.0\IntegerIkililerinToplami.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\IntegerIkililerinToplami\obj\Debug\net9.0\refint\IntegerIkililerinToplami.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\IntegerIkililerinToplami\obj\Debug\net9.0\IntegerIkililerinToplami.pdb
+C:\Users\Asus\Desktop\CSharpPprojeler\IntegerIkililerinToplami\obj\Debug\net9.0\IntegerIkililerinToplami.genruntimeconfig.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\IntegerIkililerinToplami\obj\Debug\net9.0\ref\IntegerIkililerinToplami.dll

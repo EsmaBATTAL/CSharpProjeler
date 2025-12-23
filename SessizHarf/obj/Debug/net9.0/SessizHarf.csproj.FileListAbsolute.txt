@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\CSharpPprojeler\SessizHarf\bin\Debug\net9.0\SessizHarf.exe
+C:\Users\Asus\Desktop\CSharpPprojeler\SessizHarf\bin\Debug\net9.0\SessizHarf.deps.json
+C:\Users\Asus\Desktop\CSharpPprojeler\SessizHarf\bin\Debug\net9.0\SessizHarf.runtimeconfig.json
+C:\Users\Asus\Desktop\CSharpPprojeler\SessizHarf\bin\Debug\net9.0\SessizHarf.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\SessizHarf\bin\Debug\net9.0\SessizHarf.pdb
+C:\Users\Asus\Desktop\CSharpPprojeler\SessizHarf\obj\Debug\net9.0\SessizHarf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CSharpPprojeler\SessizHarf\obj\Debug\net9.0\SessizHarf.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\SessizHarf\obj\Debug\net9.0\SessizHarf.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CSharpPprojeler\SessizHarf\obj\Debug\net9.0\SessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\SessizHarf\obj\Debug\net9.0\SessizHarf.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\SessizHarf\obj\Debug\net9.0\refint\SessizHarf.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\SessizHarf\obj\Debug\net9.0\SessizHarf.pdb
+C:\Users\Asus\Desktop\CSharpPprojeler\SessizHarf\obj\Debug\net9.0\SessizHarf.genruntimeconfig.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\SessizHarf\obj\Debug\net9.0\ref\SessizHarf.dll

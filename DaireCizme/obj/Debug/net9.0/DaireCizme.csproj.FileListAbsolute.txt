@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\CSharpPprojeler\DaireCizme\bin\Debug\net9.0\DaireCizme.exe
+C:\Users\Asus\Desktop\CSharpPprojeler\DaireCizme\bin\Debug\net9.0\DaireCizme.deps.json
+C:\Users\Asus\Desktop\CSharpPprojeler\DaireCizme\bin\Debug\net9.0\DaireCizme.runtimeconfig.json
+C:\Users\Asus\Desktop\CSharpPprojeler\DaireCizme\bin\Debug\net9.0\DaireCizme.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\DaireCizme\bin\Debug\net9.0\DaireCizme.pdb
+C:\Users\Asus\Desktop\CSharpPprojeler\DaireCizme\obj\Debug\net9.0\DaireCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CSharpPprojeler\DaireCizme\obj\Debug\net9.0\DaireCizme.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\DaireCizme\obj\Debug\net9.0\DaireCizme.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CSharpPprojeler\DaireCizme\obj\Debug\net9.0\DaireCizme.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\DaireCizme\obj\Debug\net9.0\DaireCizme.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\DaireCizme\obj\Debug\net9.0\refint\DaireCizme.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\DaireCizme\obj\Debug\net9.0\DaireCizme.pdb
+C:\Users\Asus\Desktop\CSharpPprojeler\DaireCizme\obj\Debug\net9.0\DaireCizme.genruntimeconfig.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\DaireCizme\obj\Debug\net9.0\ref\DaireCizme.dll

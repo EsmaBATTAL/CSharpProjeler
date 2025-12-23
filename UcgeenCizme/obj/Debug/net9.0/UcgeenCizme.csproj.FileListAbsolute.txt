@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\CSharpPprojeler\UcgeenCizme\bin\Debug\net9.0\UcgeenCizme.exe
+C:\Users\Asus\Desktop\CSharpPprojeler\UcgeenCizme\bin\Debug\net9.0\UcgeenCizme.deps.json
+C:\Users\Asus\Desktop\CSharpPprojeler\UcgeenCizme\bin\Debug\net9.0\UcgeenCizme.runtimeconfig.json
+C:\Users\Asus\Desktop\CSharpPprojeler\UcgeenCizme\bin\Debug\net9.0\UcgeenCizme.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\UcgeenCizme\bin\Debug\net9.0\UcgeenCizme.pdb
+C:\Users\Asus\Desktop\CSharpPprojeler\UcgeenCizme\obj\Debug\net9.0\UcgeenCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CSharpPprojeler\UcgeenCizme\obj\Debug\net9.0\UcgeenCizme.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\UcgeenCizme\obj\Debug\net9.0\UcgeenCizme.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CSharpPprojeler\UcgeenCizme\obj\Debug\net9.0\UcgeenCizme.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\UcgeenCizme\obj\Debug\net9.0\UcgeenCizme.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\UcgeenCizme\obj\Debug\net9.0\refint\UcgeenCizme.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\UcgeenCizme\obj\Debug\net9.0\UcgeenCizme.pdb
+C:\Users\Asus\Desktop\CSharpPprojeler\UcgeenCizme\obj\Debug\net9.0\UcgeenCizme.genruntimeconfig.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\UcgeenCizme\obj\Debug\net9.0\ref\UcgeenCizme.dll

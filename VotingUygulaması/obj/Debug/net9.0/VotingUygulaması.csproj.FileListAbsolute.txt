@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\CSharpPprojeler\VotingUygulaması\bin\Debug\net9.0\VotingUygulaması.exe
+C:\Users\Asus\Desktop\CSharpPprojeler\VotingUygulaması\bin\Debug\net9.0\VotingUygulaması.deps.json
+C:\Users\Asus\Desktop\CSharpPprojeler\VotingUygulaması\bin\Debug\net9.0\VotingUygulaması.runtimeconfig.json
+C:\Users\Asus\Desktop\CSharpPprojeler\VotingUygulaması\bin\Debug\net9.0\VotingUygulaması.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\VotingUygulaması\bin\Debug\net9.0\VotingUygulaması.pdb
+C:\Users\Asus\Desktop\CSharpPprojeler\VotingUygulaması\obj\Debug\net9.0\VotingUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CSharpPprojeler\VotingUygulaması\obj\Debug\net9.0\VotingUygulaması.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\VotingUygulaması\obj\Debug\net9.0\VotingUygulaması.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CSharpPprojeler\VotingUygulaması\obj\Debug\net9.0\VotingUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\VotingUygulaması\obj\Debug\net9.0\VotingUygulaması.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\VotingUygulaması\obj\Debug\net9.0\refint\VotingUygulaması.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\VotingUygulaması\obj\Debug\net9.0\VotingUygulaması.pdb
+C:\Users\Asus\Desktop\CSharpPprojeler\VotingUygulaması\obj\Debug\net9.0\VotingUygulaması.genruntimeconfig.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\VotingUygulaması\obj\Debug\net9.0\ref\VotingUygulaması.dll

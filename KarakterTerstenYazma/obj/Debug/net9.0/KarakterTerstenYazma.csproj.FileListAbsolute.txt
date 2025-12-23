@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\CSharpPprojeler\KarakterTerstenYazma\bin\Debug\net9.0\KarakterTerstenYazma.exe
+C:\Users\Asus\Desktop\CSharpPprojeler\KarakterTerstenYazma\bin\Debug\net9.0\KarakterTerstenYazma.deps.json
+C:\Users\Asus\Desktop\CSharpPprojeler\KarakterTerstenYazma\bin\Debug\net9.0\KarakterTerstenYazma.runtimeconfig.json
+C:\Users\Asus\Desktop\CSharpPprojeler\KarakterTerstenYazma\bin\Debug\net9.0\KarakterTerstenYazma.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\KarakterTerstenYazma\bin\Debug\net9.0\KarakterTerstenYazma.pdb
+C:\Users\Asus\Desktop\CSharpPprojeler\KarakterTerstenYazma\obj\Debug\net9.0\KarakterTerstenYazma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CSharpPprojeler\KarakterTerstenYazma\obj\Debug\net9.0\KarakterTerstenYazma.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\KarakterTerstenYazma\obj\Debug\net9.0\KarakterTerstenYazma.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CSharpPprojeler\KarakterTerstenYazma\obj\Debug\net9.0\KarakterTerstenYazma.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\KarakterTerstenYazma\obj\Debug\net9.0\KarakterTerstenYazma.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\KarakterTerstenYazma\obj\Debug\net9.0\refint\KarakterTerstenYazma.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\KarakterTerstenYazma\obj\Debug\net9.0\KarakterTerstenYazma.pdb
+C:\Users\Asus\Desktop\CSharpPprojeler\KarakterTerstenYazma\obj\Debug\net9.0\KarakterTerstenYazma.genruntimeconfig.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\KarakterTerstenYazma\obj\Debug\net9.0\ref\KarakterTerstenYazma.dll

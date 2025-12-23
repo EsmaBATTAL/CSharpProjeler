@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\CSharpPprojeler\AlanHesaplama\bin\Debug\net9.0\AlanHesaplama.exe
+C:\Users\Asus\Desktop\CSharpPprojeler\AlanHesaplama\bin\Debug\net9.0\AlanHesaplama.deps.json
+C:\Users\Asus\Desktop\CSharpPprojeler\AlanHesaplama\bin\Debug\net9.0\AlanHesaplama.runtimeconfig.json
+C:\Users\Asus\Desktop\CSharpPprojeler\AlanHesaplama\bin\Debug\net9.0\AlanHesaplama.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\AlanHesaplama\bin\Debug\net9.0\AlanHesaplama.pdb
+C:\Users\Asus\Desktop\CSharpPprojeler\AlanHesaplama\obj\Debug\net9.0\AlanHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CSharpPprojeler\AlanHesaplama\obj\Debug\net9.0\AlanHesaplama.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\AlanHesaplama\obj\Debug\net9.0\AlanHesaplama.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CSharpPprojeler\AlanHesaplama\obj\Debug\net9.0\AlanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\AlanHesaplama\obj\Debug\net9.0\AlanHesaplama.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\AlanHesaplama\obj\Debug\net9.0\refint\AlanHesaplama.dll
+C:\Users\Asus\Desktop\CSharpPprojeler\AlanHesaplama\obj\Debug\net9.0\AlanHesaplama.pdb
+C:\Users\Asus\Desktop\CSharpPprojeler\AlanHesaplama\obj\Debug\net9.0\AlanHesaplama.genruntimeconfig.cache
+C:\Users\Asus\Desktop\CSharpPprojeler\AlanHesaplama\obj\Debug\net9.0\ref\AlanHesaplama.dll
